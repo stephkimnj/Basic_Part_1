@@ -42,6 +42,6 @@ public class Main {
         //Exercise.exerciseArr55();
         //Exercise.exerciseArr58();
         //Exercise.exerciseArr59();
-        Exercise.exerciseArr71();
+
     }
 }
